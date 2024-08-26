@@ -104,20 +104,38 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 <img src="entidad-relacion.png" alt="Entidad-Relación " whith="5vw">
 
 # Creacion de la BD
-
+Se hizo la creaci´pon de la base de datos y los funcionamientos de SP.
 <img src="creacionBD.png" alt="Creacion bd" whith="5vw">
 
 # Funcionamiento de Swagger
  <img src="SWAGGER.png" alt="Creacion bd" whith="5vw">
+
+ Podemos ver que la conexión de la base de datos funcionaba.
 <img src="Funcionamientoswagger.png" alt="Creacion bd" whith="5vw">
 
 # Funcionamiento del Hub
+Al crear un usuarioi si lo guardaba en la base de datos.
 <img src="crearusuario.png" alt="Creacion bd" whith="5vw">
+
+Cuando se hacía el registro si lo mandaba nuevamente al login.
 <img src="registroexitoso.png" alt="Registro" whith="5vw">
+
+Se pueden ver las peliculas y series.
 <img src="inicio.png" alt="inicio" whith="5vw">
+
+Las peliculas son mostradas.
 <img src="peliculas.png" alt="Creacion bd" whith="5vw">
+
+Se pueden visualizar las series tomadas de la BD.
 <img src="series.png" alt="series" whith="5vw">
+
+Faltó implementar el funcionamiento de Favoritos.
 <img src="Favoritos.png" alt="Favoritos" whith="5vw">
+
+Si atraé los datos del usuario que ingresó y se puede colocar una imagen al gusto como foto de perfil.
+<img src="perfil.png" alt="Favoritos" whith="5vw">
+
+Al momento de cerrar nos regresa al login.
 <img src="cerrar.png" alt="Creacion bd" whith="5vw">
 
 # Posibles mejoras futuras
@@ -131,9 +149,9 @@ Este modelo es útil para una aplicación que maneja información sobre películ
 
 | Aspecto                    | Detalles                                                                                                                                                                                                                                                                                                               |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ¿Qué Salió Bien?           | - Se hizo un mejor manejo de angular se entendio un poco más el manejo de este, así mismo se reafirmo que se tiene un gran gusto por el Front, así mismo migrar el back de express a asp.net fue un reto ya que cambian demasiadas sintaxis y formas de manejo, el control de la conexion entre API y Front fue un reto ya que no se contaba con conocimiento en esto, anteriormente se había trabajado con ASP.NET pero en ejercicios pequeños, el trabajo en equipo ayudo a que este sprint fuera mejor que los anteriores, así mismo el manejo del testing y code coverage fue algo que se aprendio ya que en sprint anteriores no lograba funcionar, agradezco a los compañeros con los cuales hice equipo ya que sin ellos este sprint no sería lo que es|
-| ¿Qué Puedo Hacer Diferente? | - Aprender más de docker y kubernetes ya que fue un reto muy dificil, siento que docker y kubernetes me arebaso ya que nunca había utilizado estas tecnologias, había escuchado de ellas pero no las había utilizado, se necesita mejorar demasiado en esto como equipo y en lo personal, estos conceptos nos arrebasaron|
-| ¿Qué No Salió Bien?        | - La implementación de docker y kubernetes fue algo que no nos funciono, ya que tuvimos demasiados problemas en el manejo de esto, entender docker y kubernetes fue algo dificil para el equipo, nos marcaba errores y no pudimos realizar esto de forma exitosa por más que lo intentamos duramos bastante tiempo pero nos nos resulto|
+| ¿Qué Salió Bien?           | Julieta: Realizar aportaciones que fueron de ayuda para la creación del Front, Backend y Base de datos, en la lluvia de ideas fue esencial para ponernos de acuerdo con lo que se quería lograr, aunque fue poco tiempo para hacer todo lo que los objetivos nos pedían, lo que se logró fue de manera satisfactoria.|
+| ¿Qué Puedo Hacer Diferente? | Julieta: No se pudo realizar Docker porque ya cuando iba a concluir la creación de imagen marcaba un error que se estuvo intentando varias veces, por ende, no se concluyó lo de kubernetes.|
+| ¿Qué No Salió Bien?        | Julieta: Con un poco más de tiempo tal vez podríamos implementar Docker y Kubernetes. Pero si hablamos de agregar al front sería concluir con lo de Favoritos, que agregue y elimine según el usuario lo desee.|
 
 # Error de docker
 ![imagen error docker](https://github.com/user-attachments/assets/9c4c7b4c-c0f8-41dd-82f9-cf3f43950f16)
