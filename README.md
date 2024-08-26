@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
+ ## HUB MEGA PELICULAS
 <div align="center">
-    ## Hub MegaPeliculas
-
+      
     Este proyecto fue generado con Angular CLI versión 18.1.0
 </div>
 
